@@ -21,7 +21,7 @@
   ],
   "_resolved": "https://registry.npmjs.org/react-native-check-box/-/react-native-check-box-2.1.0.tgz",
   "_shasum": "a4e5fa2c1860cfc3f5758ae3493b6ec2ec7c2878",
-  "_spec": "react-native-check-box",
+  "_spec": "react-native-check-box-v2",
   "_where": "C:\\React Native\\plugdreactapp",
   "author": {
     "name": "crazycodeboy"
