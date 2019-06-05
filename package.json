@@ -49,7 +49,7 @@
   ],
   "license": "MIT",
   "main": "index.js",
-  "name": "react-native-check-box",
+  "name": "react-native-check-box-v2",
   "peerDependencies": {
     "react-native": ">=0.20.0"
   },
