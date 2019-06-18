@@ -106,7 +106,7 @@ export default class CheckBox extends Component {
     render() {
         return (
             <TouchableHighlight
-                style={[this.props.style]}
+                style={[this.props.style,{borderLeftWidth: 6, borderColor: this.state.isChecked ?'#00cdbe':'#ffffff'}]}
                 onPress={()=>this.onClick()}
                 underlayColor='transparent'
                 disabled={this.props.disabled}
